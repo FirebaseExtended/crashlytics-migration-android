@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="title_crashes">Crashes</string>
+    <string name="title_events">Events</string>
+    <string name="set_user_IDs">Set User IDs</string>
+    <string name="set_custom_logs">Set Custom Logs</string>
+    <string name="set_custom_keys">Set Custom Keys</string>
+    <string name="buy_button">Buy</string>
+    <string name="edittext_hint">Type Something Here</string>
+    <string name="send_buttons">Send</string>
+    <string name="send_button">Search</string>
+    <string name="search_button">Search</string>
+    <string name="add_buttons">Add</string>
+    <string name="add_button">Add</string>
+    <string name="purchase_button">Purchase</string>
+    <string name="event_search">Event Search</string>
+    <string name="event_cart">Event Add To Cart</string>
+    <string name="event_buy">Event Buy</string>
+    <string name="crash">Crash</string>
+    <string name="non_fatal">Log Non-Fatal</string>
+    <string name="add_apple">Apple</string>
+    <string name="add_orange">Orange</string>
+    <string name="add_pear">Pear</string>
+</resources>

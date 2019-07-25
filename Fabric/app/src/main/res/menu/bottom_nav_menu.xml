@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_crashes"
+        android:title="@string/title_crashes"
+        />
+
+    <item
+        android:id="@+id/navigation_events"
+        android:title="@string/title_events" />
+
+
+</menu>

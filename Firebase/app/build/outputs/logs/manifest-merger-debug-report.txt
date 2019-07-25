@@ -1,0 +1,486 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a036eab930b8a2e5d6eac8d3394b67fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/e5a25e80243f42140964aec77803483e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a4c5842844a7b301fe1a9a7fbd2b298/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/94d00b20f5f066e45b3925b0a9d0f474/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/fb8c3b3ea66ca32b7b7127488b65b279/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/640a853496e7cc2460d7be17e689c0a2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d0f98a2808320b064275d7fa8ff821/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/2c7418b7cbe8c46eb41103af19799412/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a34dae9670543588305f96801c64425/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bc2133b24a8eb21f1f24aac8e5d2506c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b717b80e8c74c5a957311bc9f75a5a11/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a1fe29a6b8e15b9be4eac41966114b49/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/52c0a806468499e8d4af2786023bc0b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/03a50abb937ba91447893832534ba3af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/f515b084b59b2e0d2f2975cd74667b35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/dbd2bcce9cc22cd1cbd490221d79e42c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bd86fccab112b37b84836b3c29fc6ff6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/644e52dc60ad1ae2c061a9bc0654e8e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/524ec937823a455b2af015eebff07e56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/81d19a4b90291f8b40697c7b2b8a08e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/02299ee38dce1c564326ab3a0627e4a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c77716206790008a472a552e043eb139/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/076c44da6220b2d98caa133ab01d9f11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/84b0d6392f9eb6a38dd14465bc5d6516/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d4433410035eff715b7250453e9dbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ea352b9f9f5fb60547dc44c9256623b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/90d79ef524c0188bf901698b664509fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/362a79cfa26c965c11c1550c6386c584/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/518db35fe5bb9827f71fa54da3a5844c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3fc8104ef47d1921215f0d6055a2de1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/5c6f2055749080971507cf4b35138723/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c546e1d003f20f4afb51a55ac6c3bd0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/29ff279c718bfe19e0eb8e0343fe784b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25577e763464759324572e662fdb472d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/d40598d612e04ffda07fc3408542cd93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3716e868c4baf0522e0c78ef4155fbd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c568b82939b0310a9d812d9251630234/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8579751a52cd7c0a10531d2823747e16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b58ae8cee9ec022da79a6ea816b1617e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a036eab930b8a2e5d6eac8d3394b67fb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a036eab930b8a2e5d6eac8d3394b67fb/AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:18:5-24:19
+MERGED from [com.android.support:design:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/e5a25e80243f42140964aec77803483e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/e5a25e80243f42140964aec77803483e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/94d00b20f5f066e45b3925b0a9d0f474/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/94d00b20f5f066e45b3925b0a9d0f474/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/fb8c3b3ea66ca32b7b7127488b65b279/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/fb8c3b3ea66ca32b7b7127488b65b279/AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/640a853496e7cc2460d7be17e689c0a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/640a853496e7cc2460d7be17e689c0a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d0f98a2808320b064275d7fa8ff821/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d0f98a2808320b064275d7fa8ff821/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/2c7418b7cbe8c46eb41103af19799412/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/2c7418b7cbe8c46eb41103af19799412/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a34dae9670543588305f96801c64425/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a34dae9670543588305f96801c64425/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bc2133b24a8eb21f1f24aac8e5d2506c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bc2133b24a8eb21f1f24aac8e5d2506c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b717b80e8c74c5a957311bc9f75a5a11/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b717b80e8c74c5a957311bc9f75a5a11/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a1fe29a6b8e15b9be4eac41966114b49/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a1fe29a6b8e15b9be4eac41966114b49/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/362a79cfa26c965c11c1550c6386c584/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/362a79cfa26c965c11c1550c6386c584/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:8:9-44
+	android:roundIcon
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.firebase.sampleapp.MainActivity
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a036eab930b8a2e5d6eac8d3394b67fb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a036eab930b8a2e5d6eac8d3394b67fb/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:12:5-14:63
+MERGED from [com.android.support:design:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/e5a25e80243f42140964aec77803483e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/e5a25e80243f42140964aec77803483e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a4c5842844a7b301fe1a9a7fbd2b298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a4c5842844a7b301fe1a9a7fbd2b298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/94d00b20f5f066e45b3925b0a9d0f474/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/94d00b20f5f066e45b3925b0a9d0f474/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/fb8c3b3ea66ca32b7b7127488b65b279/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/fb8c3b3ea66ca32b7b7127488b65b279/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:27:5-43
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/640a853496e7cc2460d7be17e689c0a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/640a853496e7cc2460d7be17e689c0a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d0f98a2808320b064275d7fa8ff821/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d0f98a2808320b064275d7fa8ff821/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/2c7418b7cbe8c46eb41103af19799412/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/2c7418b7cbe8c46eb41103af19799412/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a34dae9670543588305f96801c64425/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8a34dae9670543588305f96801c64425/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bc2133b24a8eb21f1f24aac8e5d2506c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bc2133b24a8eb21f1f24aac8e5d2506c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b717b80e8c74c5a957311bc9f75a5a11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b717b80e8c74c5a957311bc9f75a5a11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a1fe29a6b8e15b9be4eac41966114b49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a1fe29a6b8e15b9be4eac41966114b49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/52c0a806468499e8d4af2786023bc0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/52c0a806468499e8d4af2786023bc0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/03a50abb937ba91447893832534ba3af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/03a50abb937ba91447893832534ba3af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/f515b084b59b2e0d2f2975cd74667b35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/f515b084b59b2e0d2f2975cd74667b35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/dbd2bcce9cc22cd1cbd490221d79e42c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/dbd2bcce9cc22cd1cbd490221d79e42c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bd86fccab112b37b84836b3c29fc6ff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/bd86fccab112b37b84836b3c29fc6ff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/644e52dc60ad1ae2c061a9bc0654e8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/644e52dc60ad1ae2c061a9bc0654e8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/524ec937823a455b2af015eebff07e56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/524ec937823a455b2af015eebff07e56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/81d19a4b90291f8b40697c7b2b8a08e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/81d19a4b90291f8b40697c7b2b8a08e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/02299ee38dce1c564326ab3a0627e4a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/02299ee38dce1c564326ab3a0627e4a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c77716206790008a472a552e043eb139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c77716206790008a472a552e043eb139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/076c44da6220b2d98caa133ab01d9f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/076c44da6220b2d98caa133ab01d9f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/84b0d6392f9eb6a38dd14465bc5d6516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/84b0d6392f9eb6a38dd14465bc5d6516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d4433410035eff715b7250453e9dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/86d4433410035eff715b7250453e9dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ea352b9f9f5fb60547dc44c9256623b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ea352b9f9f5fb60547dc44c9256623b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/90d79ef524c0188bf901698b664509fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/90d79ef524c0188bf901698b664509fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7542a3d0b5b8a00b0f01de7259e8532a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/362a79cfa26c965c11c1550c6386c584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/362a79cfa26c965c11c1550c6386c584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/518db35fe5bb9827f71fa54da3a5844c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/518db35fe5bb9827f71fa54da3a5844c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3fc8104ef47d1921215f0d6055a2de1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3fc8104ef47d1921215f0d6055a2de1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/5c6f2055749080971507cf4b35138723/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/5c6f2055749080971507cf4b35138723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c546e1d003f20f4afb51a55ac6c3bd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c546e1d003f20f4afb51a55ac6c3bd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/29ff279c718bfe19e0eb8e0343fe784b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/29ff279c718bfe19e0eb8e0343fe784b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25577e763464759324572e662fdb472d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25577e763464759324572e662fdb472d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/d40598d612e04ffda07fc3408542cd93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/d40598d612e04ffda07fc3408542cd93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3716e868c4baf0522e0c78ef4155fbd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/3716e868c4baf0522e0c78ef4155fbd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c568b82939b0310a9d812d9251630234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/c568b82939b0310a9d812d9251630234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8579751a52cd7c0a10531d2823747e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/8579751a52cd7c0a10531d2823747e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b58ae8cee9ec022da79a6ea816b1617e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/b58ae8cee9ec022da79a6ea816b1617e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:14:9-60
+	android:targetSdkVersion
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okodysh/Desktop/Ariane Android/crashlytics-sampleapp-android/Firebase/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/98d761a31e4cbec0950d9d2eac92a2ac/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/ecdc3af172b713289b986c8ec1fbae63/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d0dd0a453cfae1c571d3d9aaf49021f/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7d05e5f5c3901670affa3484ae510820/AndroidManifest.xml:29:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:16:22-64
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:19:9-23:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:21:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/57abbdfb2cafb597e9646251794998e1/AndroidManifest.xml:20:13-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/a27289fc74825cdfa1c9354943d1c7ec/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/7dde6e540f665d0292a27d43211c7ff6/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/255cb9cb2457d3714b8654ca09d8947e/AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0fd2a0d5e67063b3a7b0032d98f3f8e2/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/25b30937c3e0b305056848e4d064db73/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/23aec2b0bd47209a69488320d457ef15/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/78a75c8a0ac74287ba5163e378266a51/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/18e89514e8b19f39bd38352f127c766d/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/15102468e68bbeda7d32e70df3c39671/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/okodysh/.gradle/caches/transforms-2/files-2.1/0d473c0b712fb11fbdd0ed39a457b1b7/AndroidManifest.xml:27:13-51
