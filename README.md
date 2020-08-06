@@ -1,8 +1,14 @@
-This is not an officially supported Google product
-
 # SampleApp for Fabric/Firebase
 
 This Android/iOS app is meant to demo Fabric and Firebase crashlytics / analytics functionalities. It is intended as a showcase of how to integrate basic features into your Fabric/Firebase apps. This sample app also demonstrates the differences between Fabric and Firebase implementation of dependencies, as well as the parity between Answers events and Google Analytics events.
+
+## Status
+
+![Status: Archived](https://img.shields.io/badge/Status-Archived-red)
+
+This library is no longer actively maintained. We **do not recommend** using this library in production.
+
+If you maintain a fork of this library that you believe is healthier than the official version, we may consider recommending your fork.  Please open a Pull Request if you believe that is the case.
 
 # How to use this App (Fabric)
 
